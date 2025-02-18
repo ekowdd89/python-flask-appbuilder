@@ -7,8 +7,9 @@ Base Skeleton to start your application using Flask-AppBuilder
 	git clone https://github.com/dpgaspar/Flask-AppBuilder-Skeleton.git
 
 - VirtualEnv::
-    virtualenv flask_app_venv
-    source ./flask_app_venv/bin/activate
+
+    $ virtualenv flask_app_venv
+    $ source ./flask_app_venv/bin/activate
 
 - Run it::
 
