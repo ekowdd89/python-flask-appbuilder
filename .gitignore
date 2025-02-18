@@ -1,0 +1,8 @@
+*.pyc
+app.db
+./tmp
+./build/*
+.idea
+env
+flask_app_venv
+*.sublime*
